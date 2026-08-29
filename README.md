@@ -59,7 +59,7 @@ PlaySoundFile("Interface\\AddOns\\ChatPing\\Sounds\\Glass.mp3", "Master")
 
 ### 👤 Author
 **Created by Subby**  
-*Tight lines and happy fishing!*
+*Now you can safely take a nap without missing your name!* 💤
 
 ---
 
