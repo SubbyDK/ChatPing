@@ -1,0 +1,11 @@
+## Title: ChatPing
+## Interface: 20504
+## Author: Subby
+## Version: 0.0.2
+## DefaultState: enabled
+## Notes: Plays a sound when specified names are mentioned in chat.
+
+## SavedVariables: ChatPingDB
+## SavedVariablesPerCharacter: 
+
+ChatPing.lua
