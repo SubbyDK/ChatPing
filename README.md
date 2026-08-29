@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/github/downloads/SubbyDK/ChatPing/total" alt="Downloads">
 </p>
 
-A lightweight World of Warcraft addon for TBC Classic / Anniversary client. **ChatPing** plays a custom sound notification whenever specified keywords or character names are mentioned in chat channels.  
+A lightweight World of Warcraft addon for TBC Classic / Anniversary client.  
+[**ChatPing**](https://github.com/SubbyDK/ChatPing/releases/latest/download/ChatPing.zip) plays a custom sound notification whenever specified keywords or character names are mentioned in chat channels.  
 Download neweste version [here](https://github.com/SubbyDK/ChatPing/releases/latest/download/ChatPing.zip).
 
 ---
